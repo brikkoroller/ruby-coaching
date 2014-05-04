@@ -1,5 +1,3 @@
-
-
 def ex1_for_loop(threshold)
   max = threshold-1
   sum = 0
